@@ -1,0 +1,15 @@
+nav {
+    background-color: white;
+    border-radius: 10px;
+    bottom: 30px;
+    color: var(--primary-color);
+    left: 30px;
+    padding: 20px 30px;
+    position: fixed;
+    top: 30px;
+    width: 300px;
+}
+
+nav h1 {
+    margin-top: 0;
+}

@@ -1,0 +1,87 @@
+{
+    "extends": [
+        "airbnb",
+        "airbnb/hooks",
+        "airbnb-typescript",
+        "eslint:recommended",
+        "plugin:jsx-a11y/recommended",
+        "prettier",
+        "react-app",
+        "react-app/jest"
+    ],
+    "globals": {
+        "BigInt": "readonly"
+    },
+    "parserOptions": {
+        "project": "./tsconfig.json"
+    },
+    "plugins": ["jsx-a11y"],
+    "rules": {
+        "camelcase": "off",
+        "global-require": "off",
+        "import/extensions": "off",
+        "import/named": "off",
+        "import/no-cycle": "off",
+        "import/no-dynamic-require": "off",
+        "import/no-extraneous-dependencies": "off",
+        "import/order": [
+            "error",
+            {
+                "alphabetize": { "order": "asc" },
+                "groups": [
+                    ["builtin", "external"],
+                    ["parent", "sibling", "index"]
+                ],
+                "newlines-between": "always"
+            }
+        ],
+        "jsx-a11y/anchor-is-valid": "off",
+        "jsx-a11y/click-events-have-key-events": "off",
+        "lines-between-class-members": "off",
+        "no-console": [
+            "warn",
+            {
+                "allow": ["error", "groupCollapsed", "groupEnd", "info", "warn"]
+            }
+        ],
+        "no-nested-ternary": "off",
+        "no-param-reassign": "off",
+        "no-restricted-syntax": "off",
+        "no-shadow": "off",
+        "no-underscore-dangle": "off",
+        "padding-line-between-statements": [
+            "error",
+            {
+                "blankLine": "always",
+                "prev": "*",
+                "next": "block-like"
+            },
+            {
+                "blankLine": "always",
+                "prev": "block-like",
+                "next": "*"
+            },
+            { "blankLine": "always", "prev": ["const", "let"], "next": "*" },
+            {
+                "blankLine": "any",
+                "prev": ["const", "let"],
+                "next": ["const", "let"]
+            }
+        ],
+        "react/forbid-prop-types": "off",
+        "react/jsx-filename-extension": [
+            "error",
+            {
+                "extensions": [".js", ".jsx", ".ts", ".tsx"]
+            }
+        ],
+        "react/jsx-no-duplicate-props": "off",
+        "react/jsx-props-no-spreading": "off",
+        "react/no-array-index-key": "off",
+        "react/no-danger": "off",
+        "react/prop-types": "error",
+        "react/react-in-jsx-scope": "off",
+        "react/state-in-constructor": "off",
+        "react-hooks/exhaustive-deps": "off"
+    }
+}
