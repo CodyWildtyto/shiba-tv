@@ -1,4 +1,4 @@
-import './Item.style.css';
+import './NavChannelsItem.css';
 
 type TNavChannelsItem = {
     text: string;

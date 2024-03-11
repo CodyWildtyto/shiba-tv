@@ -1,0 +1,15 @@
+:root {
+    --app-area-padding: 40px;
+    --default-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    --primary-color: #c69c6d;
+    --side-area-width: 360px;
+    --side-nav-width: calc(
+        var(--side-area-width) - var(--app-area-padding) * 2
+    );
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: var(--default-box-shadow);
+}

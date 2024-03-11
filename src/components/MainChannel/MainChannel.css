@@ -1,0 +1,39 @@
+.MainChannel {
+    min-height: 300px;
+}
+
+.MainChannel header {
+    display: flex;
+    gap: 20px;
+    padding-right: var(--app-area-padding);
+    margin-bottom: var(--app-area-padding);
+    margin-left: var(--side-area-width);
+}
+
+.MainChannel header .MainChannelHeader__Head {
+    flex-basis: 54px;
+}
+.MainChannel header .MainChannelHeader__Body {
+    flex-grow: 1;
+}
+
+.MainChannel header h3 {
+    font-size: 32px;
+    line-height: 32px;
+    margin: 0;
+}
+
+.MainChannel .MainChannel__Carousel {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: var(--app-area-padding);
+    overflow-x: auto;
+    padding-bottom: 20px;
+    padding-left: var(--side-area-width);
+}
+
+.MainChannel .MainChannel__Item {
+    flex-shrink: 0;
+    height: 240px;
+    width: 320px;
+}

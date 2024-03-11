@@ -1,6 +1,6 @@
-import NavChannelsItem from './Item';
+import NavChannelsItem from './NavChannelsItem';
 
-import './style.css';
+import './NavChannels.css';
 
 function NavChannels(): JSX.Element {
     const channelList = [

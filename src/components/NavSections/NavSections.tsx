@@ -1,4 +1,4 @@
-import './style.css';
+import './NavSections.css';
 
 function NavSections(): JSX.Element {
     return (
