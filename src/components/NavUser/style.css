@@ -1,0 +1,17 @@
+.NavUser {
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    gap: 10px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.NavUser img {
+    border-radius: 18px;
+    height: 36px;
+}
+
+.NavUser span {
+    line-height: 36px;
+}

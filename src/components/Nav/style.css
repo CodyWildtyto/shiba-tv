@@ -3,13 +3,24 @@ nav {
     border-radius: 10px;
     bottom: 30px;
     color: var(--primary-color);
+    display: flex;
+    flex-direction: column;
     left: 30px;
     padding: 20px 30px;
+    padding-right: 0;
     position: fixed;
     top: 30px;
     width: 300px;
 }
 
 nav h1 {
+    font-size: 40px;
+    margin-bottom: 40px;
     margin-top: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }

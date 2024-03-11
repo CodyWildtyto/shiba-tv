@@ -1,0 +1,21 @@
+.NavChannelsItem {
+    display: flex;
+}
+
+.NavChannelsItem:first-of-type {
+    border-right: 10px solid var(--primary-color);
+}
+
+.NavChannelsItem + .NavChannelsItem {
+    margin-top: 20px;
+}
+
+.NavChannelsItem img {
+    border-radius: 18px;
+    height: 36px;
+    margin-right: 10px;
+}
+
+.NavChannelsItem span {
+    line-height: 36px;
+}
