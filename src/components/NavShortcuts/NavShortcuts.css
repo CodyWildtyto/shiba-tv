@@ -1,0 +1,28 @@
+.NavShortcuts {
+    display: flex;
+    flex-direction: column;
+    height: 0;
+    margin-left: -10px;
+    margin-right: -30px;
+    overflow: hidden;
+    padding: 10px 10px 20px;
+    transition: height 100ms;
+}
+
+.NavShortcuts--Active {
+    height: 110px;
+}
+
+.NavShortcuts button {
+    padding: 20px;
+    text-align: left;
+    transition: transform 200ms;
+}
+
+.NavShortcuts button:hover {
+    transform: translateX(-6px);
+}
+
+.NavShortcuts .NavShortcuts__Back i {
+    margin-right: 20px;
+}

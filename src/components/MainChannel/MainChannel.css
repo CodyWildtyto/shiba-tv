@@ -48,7 +48,7 @@
     gap: var(--app-area-padding);
     padding-right: var(--app-area-padding);
     overflow-x: auto;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     padding-left: var(--side-area-width);
     scrollbar-width: none;
     margin-top: -20px;

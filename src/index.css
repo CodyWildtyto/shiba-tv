@@ -13,10 +13,15 @@ body {
 
 button {
     border: 0;
+    cursor: pointer;
     padding: 0;
 }
 
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
         monospace;
+}
+
+i {
+    font-style: normal;
 }

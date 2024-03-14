@@ -1,5 +1,5 @@
 import NavChannels from '../../components/NavChannels/NavChannels';
-import NavSections from '../../components/NavSections/NavSections';
+import NavSections from '../../components/NavShortcuts/NavShortcuts';
 import NavUser from '../../components/NavUser/NavUser';
 
 import './Nav.css';
