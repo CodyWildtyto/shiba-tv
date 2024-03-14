@@ -1,5 +1,5 @@
-@import './variables.css';
-@import './reset.css';
+@import './styles/variables.css';
+@import './styles/reset.css';
 
 body {
     background-color: var(--primary-color);
@@ -9,6 +9,11 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin: 0;
+}
+
+button {
+    border: 0;
+    padding: 0;
 }
 
 code {

@@ -13,8 +13,27 @@
 .MainChannel header .MainChannelHeader__Head {
     flex-basis: 54px;
 }
+
 .MainChannel header .MainChannelHeader__Body {
     flex-grow: 1;
+}
+
+.MainChannel header .MainChannelHeader__Tail {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.MainChannel header .MainChannelHeader__Tail__Subscribers,
+.MainChannel header .MainChannelHeader__Tail__Videos {
+    line-height: 1em;
+}
+
+.MainChannel header .MainChannelHeader__Tail__Subscribers > span:last-of-type,
+.MainChannel header .MainChannelHeader__Tail__Videos > span:last-of-type {
+    font-size: 24px;
+    margin-left: 10px;
 }
 
 .MainChannel header h3 {
@@ -27,13 +46,11 @@
     display: flex;
     flex-wrap: nowrap;
     gap: var(--app-area-padding);
+    padding-right: var(--app-area-padding);
     overflow-x: auto;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     padding-left: var(--side-area-width);
-}
-
-.MainChannel .MainChannel__Item {
-    flex-shrink: 0;
-    height: 240px;
-    width: 320px;
+    scrollbar-width: none;
+    margin-top: -20px;
+    padding-top: 20px;
 }

@@ -9,6 +9,7 @@
     position: fixed;
     top: var(--app-area-padding);
     width: var(--side-nav-width);
+    z-index: 10;
 }
 
 .Nav h1 {

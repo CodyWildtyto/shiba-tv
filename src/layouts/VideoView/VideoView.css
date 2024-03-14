@@ -1,0 +1,18 @@
+.VideoView {
+    bottom: var(--app-area-padding);
+    display: flex;
+    flex-direction: column;
+    gap: var(--app-area-padding);
+    left: var(--side-area-width);
+    position: fixed;
+    right: var(--app-area-padding);
+    top: var(--app-area-padding);
+    z-index: 7;
+}
+
+.VideoScreen iframe {
+    aspect-ratio: 16/9;
+    border-radius: 16px;
+    display: block;
+    width: 100%;
+}

@@ -1,4 +1,6 @@
+import { ContextProvider } from '../../context';
 import Main from '../Main/Main';
+import ModalView from '../ModalView/ModalView';
 import Nav from '../Nav/Nav';
 
 import './App.css';
@@ -6,8 +8,11 @@ import './App.css';
 function App() {
     return (
         <div className="App">
-            <Nav />
-            <Main />
+            <ContextProvider>
+                <Nav />
+                <Main />
+                <ModalView />
+            </ContextProvider>
         </div>
     );
 }

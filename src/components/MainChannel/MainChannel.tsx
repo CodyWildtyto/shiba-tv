@@ -1,3 +1,5 @@
+import MainVideo from '../MainVideo/MainVideo';
+
 import './MainChannel.css';
 
 type TMainChannel = {
@@ -17,12 +19,19 @@ function MainChannel({ name, title }: TMainChannel): JSX.Element {
                     <span>{name}</span>
                 </div>
                 <div className="MainChannelHeader__Tail">
-                    <span>VIDEO_COUNT</span>
+                    <div className="MainChannelHeader__Tail__Subscribers">
+                        <span>SUBSCRIBERS</span>
+                        <span>58,200</span>
+                    </div>
+                    <div className="MainChannelHeader__Tail__Videos">
+                        <span>VIDEOS</span>
+                        <span>245</span>
+                    </div>
                 </div>
             </header>
             <div className="MainChannel__Carousel">
                 {[...new Array(10)].map((_, index) => (
-                    <div className="MainChannel__Item card" key={index} />
+                    <MainVideo key={index} />
                 ))}
             </div>
         </div>
