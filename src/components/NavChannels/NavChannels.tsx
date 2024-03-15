@@ -1,20 +1,17 @@
 import NavChannelsItem from './NavChannelsItem';
+import { useContextStore } from '../../utils/context';
 
 import './NavChannels.css';
 
 function NavChannels(): JSX.Element {
-    const channelList = [
-        'Shiba in the Rockies',
-        'shibainu ONIGIRI',
-        'ShibeNation',
-    ];
+    const { channelList } = useContextStore();
 
     return (
-        <ul className="NavChannels">
-            {channelList.map((text, index) => (
-                <NavChannelsItem key={index} text={text} />
+        <div className="NavChannels">
+            {channelList.map(({ id, title }, index) => (
+                <NavChannelsItem id={id} key={index} text={title} />
             ))}
-        </ul>
+        </div>
     );
 }
 

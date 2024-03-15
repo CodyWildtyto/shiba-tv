@@ -7,9 +7,17 @@ import {
     useState,
 } from 'react';
 
+type TChannel = {
+    id: string;
+    name: string;
+    title: string;
+};
+
 type TStore = {
     isVideoDisplayed: boolean | null;
     setIsVideoDisplayed: Dispatch<SetStateAction<boolean | null>>;
+    channelList: TChannel[];
+    setChannelList: Dispatch<SetStateAction<TChannel[]>>;
 };
 
 type TProviderProps = {
@@ -22,10 +30,16 @@ export function ContextProvider({ children }: TProviderProps): JSX.Element {
     const [isVideoDisplayed, setIsVideoDisplayed] = useState<boolean | null>(
         null
     );
+    const [channelList, setChannelList] = useState<TChannel[]>([]);
 
     const store = useMemo(
-        () => ({ isVideoDisplayed, setIsVideoDisplayed }),
-        [isVideoDisplayed]
+        () => ({
+            isVideoDisplayed,
+            setIsVideoDisplayed,
+            channelList,
+            setChannelList,
+        }),
+        [isVideoDisplayed, channelList]
     );
 
     return <Context.Provider value={store}>{children}</Context.Provider>;

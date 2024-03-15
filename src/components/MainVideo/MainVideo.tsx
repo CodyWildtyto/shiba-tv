@@ -1,4 +1,4 @@
-import { useContextStore } from '../../context';
+import { useContextStore } from '../../utils/context';
 
 import './MainVideo.css';
 

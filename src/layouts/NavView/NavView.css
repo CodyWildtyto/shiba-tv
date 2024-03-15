@@ -1,4 +1,4 @@
-.Nav {
+.NavView {
     bottom: var(--app-area-padding);
     color: var(--primary-color);
     display: flex;
@@ -12,13 +12,13 @@
     z-index: 10;
 }
 
-.Nav h1 {
+.NavView h1 {
     font-size: 40px;
     margin-bottom: 40px;
     margin-top: 0;
 }
 
-.Nav ul {
+.NavView ul {
     list-style-type: none;
     margin: 0;
     padding: 0;

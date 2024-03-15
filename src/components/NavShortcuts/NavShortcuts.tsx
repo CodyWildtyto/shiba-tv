@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import { useContextStore } from '../../context';
+import { useContextStore } from '../../utils/context';
 
 import './NavShortcuts.css';
 

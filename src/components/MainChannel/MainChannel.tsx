@@ -3,13 +3,14 @@ import MainVideo from '../MainVideo/MainVideo';
 import './MainChannel.css';
 
 type TMainChannel = {
+    id: string;
     name: string;
     title: string;
 };
 
-function MainChannel({ name, title }: TMainChannel): JSX.Element {
+function MainChannel({ id, name, title }: TMainChannel): JSX.Element {
     return (
-        <div className="MainChannel">
+        <div className="MainChannel" id={id}>
             <header>
                 <div className="MainChannelHeader__Head">
                     <img className="card" alt="" src="/mock/avatar.jpg" />

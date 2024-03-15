@@ -1,8 +1,9 @@
 .NavChannelsItem {
+    cursor: pointer;
     display: flex;
 }
 
-.NavChannelsItem:first-of-type {
+.NavChannelsItem.NavChannelsItem--Active {
     border-right: 10px solid var(--primary-color);
 }
 
@@ -14,6 +15,11 @@
     border-radius: 18px;
     height: 36px;
     margin-right: 10px;
+    transition: margin-right 100ms;
+}
+
+.NavChannelsItem:hover img {
+    margin-right: 20px;
 }
 
 .NavChannelsItem span {

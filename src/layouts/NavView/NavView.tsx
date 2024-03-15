@@ -2,11 +2,11 @@ import NavChannels from '../../components/NavChannels/NavChannels';
 import NavSections from '../../components/NavShortcuts/NavShortcuts';
 import NavUser from '../../components/NavUser/NavUser';
 
-import './Nav.css';
+import './NavView.css';
 
-function Nav(): JSX.Element {
+function NavView(): JSX.Element {
     return (
-        <nav className='Nav card'>
+        <nav className="NavView card">
             <h1>SHIBA TV</h1>
             <NavSections />
             <NavChannels />
@@ -15,4 +15,4 @@ function Nav(): JSX.Element {
     );
 }
 
-export default Nav;
+export default NavView;
