@@ -9,7 +9,17 @@ function MainView(): JSX.Element {
     return (
         <main className="MainView">
             {channelList.map(
-                ({ id, name, subscriberCount, title, thumbnailUrl }, index) => (
+                (
+                    {
+                        id,
+                        name,
+                        subscriberCount,
+                        title,
+                        thumbnailUrl,
+                        videoCount,
+                    },
+                    index
+                ) => (
                     <MainChannel
                         {...{
                             id,
@@ -18,6 +28,7 @@ function MainView(): JSX.Element {
                             subscriberCount,
                             title,
                             thumbnailUrl,
+                            videoCount,
                         }}
                     />
                 )

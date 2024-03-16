@@ -1,0 +1,787 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "7lHOet8SnoARoxz_W90EP_JprVY",
+    "regionCode": "CA",
+    "pageInfo": {
+        "totalResults": 23,
+        "resultsPerPage": 23
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2NJQHl9zETV3OzxJ8Jws4DYypNs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xRJYH_LsseU"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-08T15:54:40Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shiba Inu knows which slipper belongs to his owner 😆",
+                "description": "Whenever I come home, Tadashi brings my slipper to me out of excitement and joy! #shiba #shibainu #shibadog #shibalove.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xRJYH_LsseU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xRJYH_LsseU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xRJYH_LsseU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-08T15:54:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4oBsVWV4g9Og-NtubF2KnkdyTGA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mhnVeVzjHM4"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-03T15:30:05Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "nothing like the loyalty and love of a Shiba 💙",
+                "description": "Love waking up next to my Shiba every morning #shibainus #shibainu #shiba.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mhnVeVzjHM4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mhnVeVzjHM4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mhnVeVzjHM4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-03T15:30:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UOfP26nS9UQyOQqeNi08jcq2u0w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "awdnZgM1CQk"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-16T19:11:03Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Are Shiba Inus Good Family Dogs? 10 Advantages and Disadvantages of a Shiba as a Family Pet",
+                "description": "Are Shiba Inus Good Family Dogs? 10 Advantages and Disasvantages of a Shiba as a Family Pet In this video, we'll explore the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/awdnZgM1CQk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/awdnZgM1CQk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/awdnZgM1CQk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-16T19:11:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MxDYZ8Q97mo81rNupGoefvOLTvk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V7S3Ogd3GZM"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-11T23:13:40Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shibas are just so majestic 🥺💫",
+                "description": "Shibas are such beautiful dogs #shiba #shibainu #shibadog #shibainudog.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V7S3Ogd3GZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V7S3Ogd3GZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V7S3Ogd3GZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-11T23:13:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H-VatJNbsYMm-vRNRgZsC4PGS-s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3cmCmZ1MiQ8"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-19T23:34:52Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Stubborn Shiba will not give up bigger bed 😆",
+                "description": "Stubborn Shiba has his own bed but refuses to leave the bigger one, so other dog has to squeeze her big butt into his tiny bed ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3cmCmZ1MiQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3cmCmZ1MiQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3cmCmZ1MiQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-19T23:34:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JIlfTUXANQw-qb2JItF6ae_TOnw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "olUKbNz2vcI"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-17T20:00:29Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Are Shiba Inus REALLY that Independent? The honest truth...",
+                "description": "Are Shiba Inus REALLY independent? In this video, we're answering the question: are Shiba Inus really as independent as ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/olUKbNz2vcI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/olUKbNz2vcI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/olUKbNz2vcI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-17T20:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RnzMZTy-L4wlwjj5XOI3XwMm62A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wMKBKWxbDrw"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-15T01:36:30Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shiba Inu asks for some love 🥰",
+                "description": "Shiba Inu asks for some love #shiba #shibainu #shibadog #shibainudog.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wMKBKWxbDrw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wMKBKWxbDrw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wMKBKWxbDrw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-15T01:36:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M5MPoXajLNUD4XTDpVo5rX7o958",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EMW66mKMnuM"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-12T04:09:36Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "we love you so much Tadashi-san ❤️🐾",
+                "description": "petting a sweet Shiba Inu #shiba #shibainu #shibadog #shibainudog.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EMW66mKMnuM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EMW66mKMnuM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EMW66mKMnuM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-12T04:09:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CyKyoKe647y48MsCNXrE960L0pg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FZ5zcZAEURE"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-09T05:39:31Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "tongue hanging = happiness 😛",
+                "description": "Shiba Inu's tongue hangs to the side in happiness #shiba #shibainu #shibadog #shibainudog.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FZ5zcZAEURE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FZ5zcZAEURE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FZ5zcZAEURE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-09T05:39:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pfW_AZvImPByAh2MHuaVeViC9vU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L5D4eGkeY54"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-08T01:10:23Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "let’s just stay here awhile… ☁️☁️☁️",
+                "description": "Shiba Inu dog cuddles with bigger furry friend #shiba #shibainu #shibadog #shibainudog.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L5D4eGkeY54/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L5D4eGkeY54/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L5D4eGkeY54/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-08T01:10:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eue0YOJ2GStjHPpHAnRlddwzNdE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8_76uWwe3tU"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-07T00:26:17Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "keep your head up 🙏❤️",
+                "description": "Shiba Inu enjoys car ride #shiba #shibainu #shibadog.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8_76uWwe3tU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8_76uWwe3tU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8_76uWwe3tU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-07T00:26:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "THOuuBjVio9-N6-iyhTO2s__-q0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kO9B2qMlDk0"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-05T20:50:30Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Are Shiba Inus Good Pets? 10 Pros and Cons of Owning a Shiba",
+                "description": "Are Shiba Inus Good Pets? | 10 Pros and Cons of Owning a Shiba Shiba Inus have become one of the most famous dogs on the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kO9B2qMlDk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kO9B2qMlDk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kO9B2qMlDk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-05T20:50:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8OFuwtU6B-R95Qxv-scwGYKInVU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XoQz6bWVg4g"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-04T05:26:14Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "a very special bond 🥹❤️",
+                "description": "Shiba Inu cuddles with cat #shiba #shibainu #shibadog #shibainudog #dogandcatfriends #dogandcatlove.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XoQz6bWVg4g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XoQz6bWVg4g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XoQz6bWVg4g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-04T05:26:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Hmb-jGOuz-3Uq2mueu9uAFG12_w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_MA2RvbzUeQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-31T01:06:46Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shiba Inu growls and shows teeth to bigger dog! 🐕😰 #dontmesswithme",
+                "description": "Shiba Inu fearlessly growls and shows his teeth to bigger dog while playing! #shibainu #shiba #shibadog #shibarmy #shiba.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_MA2RvbzUeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_MA2RvbzUeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_MA2RvbzUeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-31T01:06:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zKShyK569Vk4h4uPHWVRAP5c4EM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0NZcHm0TQdw"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-29T06:11:23Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "life is meant to be enjoyed 😎",
+                "description": "shibainu #shiba #shibadog #shibalife #shibalovers.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0NZcHm0TQdw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0NZcHm0TQdw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0NZcHm0TQdw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-29T06:11:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H_xJYXPgHeZ9msrZUyBJkieO6LE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i3pjX8kq4yU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-28T05:58:31Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shiba Inu puppy goes on first walk! 🐶",
+                "description": "Baby Tadashi the Shiba goes on his very first walk! #shiba #shibainu #shibainu #shibainupuppy #shibapuppy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i3pjX8kq4yU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i3pjX8kq4yU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i3pjX8kq4yU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-28T05:58:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-teKyVvhIlzavkZHucSCOP8tI2M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s7e8WuH6iNI"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-26T06:20:00Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shiba Inu puppy monkeys around with big dog 😛",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s7e8WuH6iNI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s7e8WuH6iNI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s7e8WuH6iNI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-26T06:20:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CVUdmGTA2GV6z641WDhKU1HeT-c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ijI5tJRgfMw"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-25T06:22:46Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "How Much Exercise Does a Shibu Inu Need?",
+                "description": "How Much Exercise Does a Shibu Inu Need? In this video, we answer the question of how much exercise Shiba Inu dogs need in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ijI5tJRgfMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ijI5tJRgfMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ijI5tJRgfMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-25T06:22:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S5xJgrXWXScCpSf9ELdoVfqXBqU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mew4HtdQ-pI"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-25T05:32:21Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shiba Inu puppy enjoying his first day at the park 🥰☀️",
+                "description": "Adorable Shiba Inu puppy enjoys his first time playing at the park :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mew4HtdQ-pI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mew4HtdQ-pI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mew4HtdQ-pI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-25T05:32:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mLdNBByEEbRTZjrxGoQeaIBTj0w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wXw5rJBrKt4"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-23T21:42:27Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Shiba Inu puppy smelling fresh grass for the first time 🌱",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wXw5rJBrKt4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wXw5rJBrKt4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wXw5rJBrKt4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-23T21:42:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ebnazsD_9dpoO4w-imo55hx1Xss",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_WdP-vElI0w"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-19T16:40:41Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Are Shiba Inus Aggressive Towards Other Dogs?",
+                "description": "Are Shiba Inus Aggressive Towards Other Dogs? In this video, we explore the topic of whether Shiba Inus are aggressive towards ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_WdP-vElI0w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_WdP-vElI0w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_WdP-vElI0w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-19T16:40:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nJ2BxqpGHAVtvqv_4Et728XWJig",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SvC8slpcaIk"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-09T01:06:30Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Are Shiba Inus Hypoallergenic?",
+                "description": "Are Shiba Inus Hypoallergenic? In this video, we'll explore the question of whether or not Shiba Inus are hypoallergenic dogs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SvC8slpcaIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SvC8slpcaIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SvC8slpcaIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-09T01:06:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JgYPeJ1vxVz1uixbJG77ewkn3SE",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-07T14:42:33Z",
+                "channelId": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+                "title": "Tadashi the Shiba",
+                "description": "Hi, welcome to life with Tadashi the Shiba! Thanks so much for stopping by. Tadashi is 4 years old. He loves long smelly walks, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/RCCDr33uDQVyU61dAL75uM-2o3aMFsQRsAxIqlfaFS4bIRYMFaJAwXPQqk8HIuBfAUbC1yW0=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/RCCDr33uDQVyU61dAL75uM-2o3aMFsQRsAxIqlfaFS4bIRYMFaJAwXPQqk8HIuBfAUbC1yW0=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/RCCDr33uDQVyU61dAL75uM-2o3aMFsQRsAxIqlfaFS4bIRYMFaJAwXPQqk8HIuBfAUbC1yW0=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Tadashi the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-07T14:42:33Z"
+            }
+        }
+    ]
+}

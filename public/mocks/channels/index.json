@@ -1,0 +1,207 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "osrBdbyl8qBbJnnM0dx6ggfSJsM",
+    "pageInfo": {
+        "totalResults": 5,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "cqbsbn3PNIfGpnkIYpLp8t00VD0",
+            "id": "UCncfAuyvDvEd7K2dL7GlN3A",
+            "snippet": {
+                "title": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "description": "私たちはカナディアンロッキーの山々に包まれた小さな町に住んでいます。柴犬ナラ＆ソラと一緒にキャンプ、登山、ハイキング、フィッシングなど、カナダの雄大な大自然でのアウトドアライフを満喫しています。季節の移り変わりにより刻々と変化していくロッキーの自然美や、海外生活の雰囲気を楽しんで頂けると嬉しいです。気に入っていただけましたら、チャンネル登録をお願いします。\n\n柴犬ナラ / 2018年1月20日 生まれ。♀\n柴犬ソラ / 2022年2月25日 生まれ。♂\n",
+                "customUrl": "@shibaintherockies",
+                "publishedAt": "2021-02-07T01:36:50.545637Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/B1EHpEBHaAMaoe6Xx-A0pYNWwRl1JwrGEXyYiVWZ8WBnc3485jZlgIQsLDcnRxDCG_hCZEjcBw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/B1EHpEBHaAMaoe6Xx-A0pYNWwRl1JwrGEXyYiVWZ8WBnc3485jZlgIQsLDcnRxDCG_hCZEjcBw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/B1EHpEBHaAMaoe6Xx-A0pYNWwRl1JwrGEXyYiVWZ8WBnc3485jZlgIQsLDcnRxDCG_hCZEjcBw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                    "description": "私たちはカナディアンロッキーの山々に包まれた小さな町に住んでいます。柴犬ナラ＆ソラと一緒にキャンプ、登山、ハイキング、フィッシングなど、カナダの雄大な大自然でのアウトドアライフを満喫しています。季節の移り変わりにより刻々と変化していくロッキーの自然美や、海外生活の雰囲気を楽しんで頂けると嬉しいです。気に入っていただけましたら、チャンネル登録をお願いします。\n\n柴犬ナラ / 2018年1月20日 生まれ。♀\n柴犬ソラ / 2022年2月25日 生まれ。♂\n"
+                },
+                "country": "CA"
+            },
+            "statistics": {
+                "viewCount": "12136169",
+                "subscriberCount": "58200",
+                "hiddenSubscriberCount": false,
+                "videoCount": "246"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "ZugI7KWfK52_B58cg3gnZJ1bmRY",
+            "id": "UCjlcOM4JaLoUbFWQ7j0LOKA",
+            "snippet": {
+                "title": "Tadashi the Shiba",
+                "description": "Hi, welcome to life with Tadashi the Shiba! Thanks so much for stopping by.\n\nTadashi is 4 years old. He loves long smelly walks, napping all day at home, playing with squeaky toys and munching on super meaty treats. \n\nWe are here to share our lives with you and to hopefully help you decide whether Shiba Inus are the right dog for you -- all while being fun and entertaining along the way.\n\nHave a great day!\n",
+                "customUrl": "@tadashitheshiba",
+                "publishedAt": "2023-01-07T14:42:33.437369Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/RCCDr33uDQVyU61dAL75uM-2o3aMFsQRsAxIqlfaFS4bIRYMFaJAwXPQqk8HIuBfAUbC1yW0=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/RCCDr33uDQVyU61dAL75uM-2o3aMFsQRsAxIqlfaFS4bIRYMFaJAwXPQqk8HIuBfAUbC1yW0=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/RCCDr33uDQVyU61dAL75uM-2o3aMFsQRsAxIqlfaFS4bIRYMFaJAwXPQqk8HIuBfAUbC1yW0=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Tadashi the Shiba",
+                    "description": "Hi, welcome to life with Tadashi the Shiba! Thanks so much for stopping by.\n\nTadashi is 4 years old. He loves long smelly walks, napping all day at home, playing with squeaky toys and munching on super meaty treats. \n\nWe are here to share our lives with you and to hopefully help you decide whether Shiba Inus are the right dog for you -- all while being fun and entertaining along the way.\n\nHave a great day!\n"
+                }
+            },
+            "statistics": {
+                "viewCount": "565433",
+                "subscriberCount": "1520",
+                "hiddenSubscriberCount": false,
+                "videoCount": "22"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "0NJ1eI8nTNJqstfG_BsmcB1JcUU",
+            "id": "UCB5EDc_slf3zfKfQoOeitjQ",
+            "snippet": {
+                "title": "Haribo the Shiba",
+                "description": "Relaxing V-logs with Haribo the Shiba and Family\n\nHaribo is a Red Shiba Inu who lives in Canada.\nPlease leave a comment and subscribe to my channel if you enjoy this video.\nThanks for visiting my channel and saying hello to Haribo.",
+                "customUrl": "@haribotheshiba",
+                "publishedAt": "2019-08-29T02:19:21Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_m6oGk-mtOp17s064rIcM1lJXhItncJlNnHdsb7=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_m6oGk-mtOp17s064rIcM1lJXhItncJlNnHdsb7=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_m6oGk-mtOp17s064rIcM1lJXhItncJlNnHdsb7=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Haribo the Shiba",
+                    "description": "Relaxing V-logs with Haribo the Shiba and Family\n\nHaribo is a Red Shiba Inu who lives in Canada.\nPlease leave a comment and subscribe to my channel if you enjoy this video.\nThanks for visiting my channel and saying hello to Haribo."
+                },
+                "country": "CA"
+            },
+            "statistics": {
+                "viewCount": "41437237",
+                "subscriberCount": "213000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "79"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "t5PaELkL2xPm7t2XiGjnqrnMe18",
+            "id": "UCd-FQwyHwEh7U8kchB1FBnA",
+            "snippet": {
+                "title": "柴犬おにぎりくん",
+                "description": "2019年4月29日生まれ\nやんちゃな柴犬の男の子♪\n",
+                "customUrl": "@sibainuonigri",
+                "publishedAt": "2020-03-19T00:53:38.187178Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/SopVGQyVR0wV_dWn3zKMMq0mjsjtg67mtmIXYxc9u6is9Fp_t2XOcT1Jp5yw8zKQcfq_MOH3pC8=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/SopVGQyVR0wV_dWn3zKMMq0mjsjtg67mtmIXYxc9u6is9Fp_t2XOcT1Jp5yw8zKQcfq_MOH3pC8=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/SopVGQyVR0wV_dWn3zKMMq0mjsjtg67mtmIXYxc9u6is9Fp_t2XOcT1Jp5yw8zKQcfq_MOH3pC8=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "柴犬おにぎりくん",
+                    "description": "2019年4月29日生まれ\nやんちゃな柴犬の男の子♪\n"
+                },
+                "country": "JP"
+            },
+            "statistics": {
+                "viewCount": "6364036",
+                "subscriberCount": "15400",
+                "hiddenSubscriberCount": false,
+                "videoCount": "194"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "_sZWQtTbsr6Ae8oAFtnxLcBwLGY",
+            "id": "UC-xjitW_J39_Q1ure2HlJew",
+            "snippet": {
+                "title": "ShibeNation",
+                "description": "Maybe one day i live in house made of bread \n -max",
+                "customUrl": "@shibenationmax",
+                "publishedAt": "2014-02-03T14:37:12Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_mC2-hxmtbl-nYxwkVL_RmrpyG5HZXjVGwFP5yWXA=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_mC2-hxmtbl-nYxwkVL_RmrpyG5HZXjVGwFP5yWXA=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_mC2-hxmtbl-nYxwkVL_RmrpyG5HZXjVGwFP5yWXA=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "ShibeNation",
+                    "description": "Maybe one day i live in house made of bread \n -max"
+                },
+                "country": "NO"
+            },
+            "statistics": {
+                "viewCount": "102270455",
+                "subscriberCount": "648000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "155"
+            }
+        }
+    ]
+}

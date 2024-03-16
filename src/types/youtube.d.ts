@@ -12,16 +12,25 @@ export type TYoutubeThumbnail = {
 
 export type TYoutubeSnippet = {
     customUrl: string;
+    description: string;
+    publishedAt: string;
+    publishTime: string;
     title: string;
     thumbnails: TYoutubeThumbnail;
 };
 
 export type TYoutubeStatistics = {
     subscriberCount: number;
+    videoCount: number;
 };
 
 export type TYoutubeChannel = {
     id: string;
     snippet: TYoutubeSnippet;
     statistics: TYoutubeStatistics;
+};
+
+export type TYoutubeVideo = {
+    id: { videoId: string };
+    snippet: TYoutubeSnippet;
 };

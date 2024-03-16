@@ -16,6 +16,11 @@
     transform: scale(1.05);
 }
 
+.MainVideo img {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+
 .MainVideo h4 {
     -webkit-box-orient: vertical;
     color: #000;

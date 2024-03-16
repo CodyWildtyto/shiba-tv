@@ -1,8 +1,14 @@
+import { TVideo } from '../../types/video';
 import { useContextStore } from '../../utils/context';
 
 import './MainVideo.css';
 
-function MainVideo(): JSX.Element {
+function MainVideo({
+    id,
+    publishTime,
+    title,
+    thumbnailUrl,
+}: TVideo): JSX.Element {
     const { setIsVideoDisplayed } = useContextStore();
 
     const handleClick = () => setIsVideoDisplayed(true);
@@ -14,12 +20,9 @@ function MainVideo(): JSX.Element {
             role="button"
             tabIndex={0}
         >
-            <img alt="" className="card" src="/mock/video.jpg" />
-            <h4>
-                Shiba Inus attracted by lamb meat that appeared on his birthday
-                [4K]
-            </h4>
-            <span>11K views · 5 days ago</span>
+            <img alt="" className="card" src={thumbnailUrl} />
+            <h4>{title}</h4>
+            <span>{(new Date(publishTime)).toLocaleString()}</span>
         </div>
     );
 }

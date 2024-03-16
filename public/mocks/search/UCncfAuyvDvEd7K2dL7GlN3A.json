@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "GI-G2uJEd9xH7Os04ezpgV2RizM",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "CA",
+    "pageInfo": {
+        "totalResults": 403,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DmBb__GDtq98lWVVHydEKBtNDEQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JL-T0awDTyo"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-10T10:00:12Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "散歩中の所々で飼い主に何やら目で訴えてくる柴犬が可愛い【4K】",
+                "description": "街の人気散策スポット、グラッシーレイクスを歩いてきました。道中、ナラはちょこちょことこちらを見ては何かを訴えている ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JL-T0awDTyo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JL-T0awDTyo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JL-T0awDTyo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-10T10:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s9-gkprlWjGgDfBMmpPT8Fh1EjA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WIDzQJaXGSQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-25T10:00:22Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "旅行者で賑わう絶景の街を愛犬と一緒にのんびり歩く1日【4K】カナダ海外生活",
+                "description": "こんなにも暖かい2月は今まで経験がないかもしれません。春も待ち遠しいけど、まだ、もう少し雪の積もった冬景色を楽しみたい ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WIDzQJaXGSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WIDzQJaXGSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WIDzQJaXGSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-25T10:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ezHLqMmLNfsIF1-Jx1tkgdrxhCM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oEZBTppJ32A"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-02T10:00:29Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "ドッグパークで息のあった動きを見せる柴犬の姉弟が可愛い 【4K】",
+                "description": "考えてみるとフリスビーを空中でキャッチする犬って普通にいますよね（笑 まあ、できたのがナラなんで。 ※【英語字幕 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oEZBTppJ32A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oEZBTppJ32A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oEZBTppJ32A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-02T10:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U6e1KWqVciZTwcqDuw3wA-CwgjU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gaVNBX8iOcU"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-18T10:00:35Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "初めて泊まるエアビーでも我が家のようにくつろぐ柴犬たち【秋のオカナガン旅行：後編】",
+                "description": "オカナガン旅行（前編）動画の中でエアビーのお部屋を紹介しています。よかったら、そちらもご覧ください。 お洒落な ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gaVNBX8iOcU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gaVNBX8iOcU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gaVNBX8iOcU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-18T10:00:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VcHjs9QTALK7O0VycUKA7T_dXbE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ycW-y973m5I"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-12T11:32:24Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "お洒落なテイスティングルームでスタンバイする場違いな柴犬が可愛い【秋のオカナガン旅行：前編】",
+                "description": "犬連れOKのAirbnb（エアビー）は、キャンプシーズンが終わってからの旅行にとても便利ですね。 次はブドウの収穫前の時期に ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ycW-y973m5I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ycW-y973m5I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ycW-y973m5I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-12T11:32:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Iq42MvpJGnh0jpUUWwH_hG7Xo90",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GV-7KoEs55A"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-14T10:00:23Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "崖は平気なのに水辺では腰が引ける柴犬ナラ｜秋色に染まるバンフの街を散歩【4K】",
+                "description": "去年のこの時期はソラもまだまだ子供っぽかったけど、1年でずいぶんと落ち着いたものです。 ※【英語字幕について】日本語 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GV-7KoEs55A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GV-7KoEs55A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GV-7KoEs55A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-14T10:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2-pb0Zu8xBe8kTPAsmUKivnsj1g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-xGanYu5J3c"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-08T10:00:01Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "人混みに疲れていたのに特製おやつを貰ったらご機嫌になる柴犬たちが可愛い【4K】",
+                "description": "人間のパレードは、いまいち退屈そうなナラとソラでした（笑 去年のパレードの動画はこちらをご覧ください。 人混みに疲れ、年 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-xGanYu5J3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-xGanYu5J3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-xGanYu5J3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-08T10:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MTXJkYHA9jEhDXEXAU5ywe2M_Vg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_F-kGcLJcQ8"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-01T10:00:21Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "必死に流木によじ登ろうとした結果、体を張ったお笑い芸を習得してしまう柴犬ソラ【4K】",
+                "description": "いつかソラのお笑いシーンを集めた特集動画を作ってみたいです（笑 良かったら、他のバンフの街の散歩動画もご覧ください！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_F-kGcLJcQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_F-kGcLJcQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_F-kGcLJcQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-01T10:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mM_gziH6cTtmK8R89oIhj9fUgY0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Pnp6LtN2qBY"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-24T10:00:30Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "散歩中に一杯ひっかけて帰る飼い主にも嫌な顔をせずにつきあってくれる柴犬たち【4K】",
+                "description": "散歩の出発時は夕方の5時を過ぎていますが、6月のこの時期はまだまだお昼のように日が高いです。 ※【英語字幕について】日本 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pnp6LtN2qBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pnp6LtN2qBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pnp6LtN2qBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-24T10:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MH27-EL2fdTDG9qgXnlUBJnQFcE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OwEqdpw_LFk"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-17T10:00:25Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "映える絶景の湖をバックに最高の笑顔を見せてくれる柴犬が可愛すぎる【4K】",
+                "description": "最高の景色をバックに最高の笑顔を見せるナラは、まるでインスタ映えを意識したかのようでした（笑 ※【英語字幕について】 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OwEqdpw_LFk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OwEqdpw_LFk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OwEqdpw_LFk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-17T10:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oDba7jXMpBw8eGcU24QkrlQVkv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k4rNu_YOlHc"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-10T10:00:25Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "絶景のブドウ畑の散歩が素敵すぎて、自分が拗ねていたことを忘れる柴犬ナラ【ワイナリー巡りの旅：後編】",
+                "description": "オカナガンバレーでのワイナリー巡りの旅も最終日です。前編も後編は以下のリンクからご覧ください。 柴犬を連れ、西カナダ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k4rNu_YOlHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k4rNu_YOlHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k4rNu_YOlHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-10T10:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Rv1HRhMR7HHsCOjHC9rvUMfduWY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qgrWB2pcD1A"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-07T10:00:41Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "初体験の砂浜が楽しすぎて興奮が限界突破してしまう柴犬【ワイナリー巡りの旅：中編】",
+                "description": "オカナガンバレーでのワイナリー巡りの旅も二日目。旅行の動画は次が完結編になる予定です。 柴犬を連れ、西カナダ最大の ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qgrWB2pcD1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qgrWB2pcD1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qgrWB2pcD1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-07T10:00:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XfSH0iBOUuwIS9cY2uzV901xnro",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9h7RBcjQHTo"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-04T10:00:06Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "柴犬を連れ、西カナダ最大のワインの産地オカナガンバレーへキャンプ旅行に出発です！【ワイナリー巡りの旅：前編】",
+                "description": "この旅行は3年前にも企画していましたが、パンデミックにより断念。今回はナラとソラを連れてやっと実現しました。オカナガン ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9h7RBcjQHTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9h7RBcjQHTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9h7RBcjQHTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-04T10:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O30b46L6hVTaqKoW7hId-qaKcRI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lKtsZVedOG0"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-27T10:00:36Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "川で突然足場を失い、焦りながらも自分が泳げることを知った柴犬【4K】",
+                "description": "ソラはちゃんとトレーニングをしたら、泳げるようになる気がします。 ※【英語字幕について】日本語環境でも字幕をオンに ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lKtsZVedOG0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lKtsZVedOG0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lKtsZVedOG0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-27T10:00:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Snvx52-rrFWdSDYRiqD0ERO4ktE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4fmtnvInSG8"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-21T10:00:05Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "絶景の氷河湖が楽しすぎて全力ではしゃぐ柴犬たちが最高に可愛い【4K】",
+                "description": "いよいよカナディアンロッキーの本格的なハイキングシーズンが始まります！ ※【英語字幕について】日本語環境でも字幕をオン ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4fmtnvInSG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4fmtnvInSG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4fmtnvInSG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-21T10:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "byVwAseALG_2BHemDqKL5BeFVjg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KTAgJ3hzEEQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-15T10:00:14Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "皮膚炎が再発した柴犬ソラのため新たな腸活作戦を始動しました！",
+                "description": "アトピー性皮膚炎のポテンシャルは完全に消えることはないのかもしれないですね。まだまだ成長過程の若いうちだから特にそう ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KTAgJ3hzEEQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KTAgJ3hzEEQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KTAgJ3hzEEQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-15T10:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_G9K55rddg1k6pIPrpnc0UN9WkE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BeGjtaXWC-s"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-07T10:00:15Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "朝はテンションどん底でも山に来た途端にご機嫌になる柴犬【4K】",
+                "description": "ナラは本当に表情が豊かでわかりやすい子です。（笑 ※【英語字幕について】日本語環境でも字幕をオンにすると英語の字幕が ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BeGjtaXWC-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BeGjtaXWC-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BeGjtaXWC-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-07T10:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BRbd6q8CdyaTMbCvEFHiX9BvcoM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OJVKeGpZ6oQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-29T10:00:17Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "宙吊りにされると無の境地に達する柴犬が可愛すぎる｜カナダ海外生活",
+                "description": "まあ、実際に山で使う場合はハンドルを掴んで上り下りのサポートをする程度だと思いますが、ハーネスが抜ける心配もなく、 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OJVKeGpZ6oQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OJVKeGpZ6oQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OJVKeGpZ6oQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-29T10:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r9bRPqDDOQ65pqt4fMpX9B59_D4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A3RV8mgUeFM"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-22T10:00:10Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "山で食べるおやつが一番だね！と言わんばかりな山好きの柴犬が可愛い【4K】",
+                "description": "やはりナラは生粋の山ガールですね。 ※【英語字幕について】日本語環境でも字幕をオンにすると英語の字幕が楽しめるはずです ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A3RV8mgUeFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A3RV8mgUeFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A3RV8mgUeFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-22T10:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yWOIAxHBYpa41ge1RI0J3FgJzp4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "skACIhRn6vA"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-01T10:00:40Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "カナダ暮らしの柴犬の子犬が生後6週間から1歳になるまでの成長記録【4K】",
+                "description": "ナラの時もそうでしたが、一才になるまではしつけに奮闘する日々で、あまり可愛いと思った記憶がないんですよね【笑 動画で ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/skACIhRn6vA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/skACIhRn6vA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/skACIhRn6vA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-01T10:00:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QKEwRYm6hks7jIXtwRqk9mK7Wu8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9RVHmjPrlNM"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-25T10:00:05Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "【アイスウォーク】川が凍りついた小渓谷を愛犬と散歩しました【4K】",
+                "description": "2:34 の壁画（絵文字）はホピ族により500年前から1300年前に描かれたと言われています。峡谷の石灰岩の壁に沿って描かれた ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9RVHmjPrlNM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9RVHmjPrlNM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9RVHmjPrlNM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-25T10:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7u47Tvskpq8iz2jjXj_O2fZGd4A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7pfzYxkVzEc"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-18T10:00:03Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "のどかな都会の公園で動物たちと遭遇した柴犬の仕草が可愛い【4K】",
+                "description": "カルガリーのダウンタウンにあるプリンシズ・アイランド・パーク (Prince's Island Park)は、カルガリーに来た時によく行く ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7pfzYxkVzEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7pfzYxkVzEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7pfzYxkVzEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-18T10:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kEnH94-gRfUhVFTf26LwXEsNd9A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZzkMmOTWrKQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-11T10:00:30Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "人気の観光地レイクルイーズを柴犬たちと散歩する休日【4K】カナダ海外生活",
+                "description": "レイクルイーズは夏だけでなく、冬も素晴らしいところなのです。だけど、日本はもう春ですよね（笑 ※【英語字幕について】 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZzkMmOTWrKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZzkMmOTWrKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZzkMmOTWrKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-11T10:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8kAbxw3V4E7Xvlb9e4AP_1h3Nn8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h4s8DOmrmg8"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-05T10:00:21Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "氷上で狩猟本能を掻き立てられて思わず暴走してしまう柴犬【4K】",
+                "description": "珍しくナラの興奮スイッチが入ったようです。 ※【英語字幕について】日本語環境でも字幕をオンにすると英語の字幕が楽しめる ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h4s8DOmrmg8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h4s8DOmrmg8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h4s8DOmrmg8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-05T10:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pZ4me3T1eoJwzHDrW-L3O9hm2iE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AbORK5nrZSI"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-01T10:00:11Z",
+                "channelId": "UCncfAuyvDvEd7K2dL7GlN3A",
+                "title": "大好きなカナダの森で１歳の誕生日を迎えた柴犬ソラ【4K】",
+                "description": "この一年、ソラもいろいろと大変な時期がありましたが、元気に1歳を迎えることができました！ ※動画内では書きませんでした ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AbORK5nrZSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AbORK5nrZSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AbORK5nrZSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shiba in the Rockies / カナダ暮らしの柴犬",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-01T10:00:11Z"
+            }
+        }
+    ]
+}

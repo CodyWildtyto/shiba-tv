@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "7rRCtAV5UdlWn41joyIpIt8qEQo",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "CA",
+    "pageInfo": {
+        "totalResults": 103,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HkT7Dj-Vj7amONrNnj936e2FGNY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "on7bEkC2RIE"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-27T05:27:47Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Walking, Running, and Hiking with My Shiba Inu",
+                "description": "Haribo is a Shiba Inu living in Canada and South Korea. Please leave a comment and subscribe to my channel if you enjoy this ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/on7bEkC2RIE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/on7bEkC2RIE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/on7bEkC2RIE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-27T05:27:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CLmERFDlTxTFzrqF-j1rE64KPD8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o0wX0_kwryc"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-19T23:14:23Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu Reaction To Bath Time: Self-serve Dog Wash",
+                "description": "Haribo is a Shiba Inu living in Canada and South Korea. Please leave a comment and subscribe to my channel if you enjoy this ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o0wX0_kwryc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o0wX0_kwryc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o0wX0_kwryc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-19T23:14:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MbyOwjKVJZNGKOVBtgM40DQHN88",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YkH5Zk7s-gc"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-14T22:14:20Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu wants to play all the time",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YkH5Zk7s-gc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YkH5Zk7s-gc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YkH5Zk7s-gc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-14T22:14:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OfrPiGZpEgU-nouluSir8TaEuOQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iAJ0GHA6WLA"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-29T23:25:37Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba&#39;s Play (Doge Dressed As Chucky)",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iAJ0GHA6WLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iAJ0GHA6WLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iAJ0GHA6WLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-29T23:25:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ks75uDdyuknIXIxRKRvQqOVboTQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YKizpKEdzyQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-22T06:07:33Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu Loves to Play Fetch",
+                "description": "We're re-uploading this video to support English subtitles. Haribo is a Shiba Inu who lives in Canada. Please leave a comment ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YKizpKEdzyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YKizpKEdzyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YKizpKEdzyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-22T06:07:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EB2tB3AOkjlA-SVj-m3wctWsC94",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CvxK2AQXMps"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-01T07:37:53Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu&#39;s Trip to the United States",
+                "description": "This video is recorded before COVID-19. Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CvxK2AQXMps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CvxK2AQXMps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CvxK2AQXMps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-01T07:37:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Qw1MOkClkQuwMfPlQKhE17-kBh4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BM2uA4diilo"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-17T05:57:49Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "My Shiba Inu Goes on a Date!",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BM2uA4diilo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BM2uA4diilo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BM2uA4diilo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-17T05:57:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "usUWdbx8TeRAiS5a0ZmKAnZyePo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e2rHc4lGZ1c"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-20T05:54:55Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "낯선 사람이 창문으로 침입할 때 강아지 반응ㅋㅋ",
+                "description": "하리보는 캐나다에 사는 암컷 시바견이에요. 곰인형 모양 젤리 이름에서 따온 귀여운 이름이지만 저희 가족은 주로 “하리” 라는 애칭 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e2rHc4lGZ1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e2rHc4lGZ1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e2rHc4lGZ1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-20T05:54:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VwERasmV7wpQH4l5biiB8KIgY-M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5rFCl8LuVBY"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-23T06:01:43Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu found her long-lost brother (?)",
+                "description": "Haribo is a Shiba Inu who lives in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5rFCl8LuVBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5rFCl8LuVBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5rFCl8LuVBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-23T06:01:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O2FA2X5MdrVqHMc6kkZZ7uE3kkw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i6SgeAiq3zs"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-10T00:36:43Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Dog filming her own V-log | Shiba Inu&#39;s Point of View",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i6SgeAiq3zs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i6SgeAiq3zs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i6SgeAiq3zs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-10T00:36:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XIsh76wsQQBK6I1lr-2YPZSXFl0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kjUe5kyi_1E"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-01T07:33:19Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu Dog&#39;s Trip To South Korea (6 Month Compilation)",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kjUe5kyi_1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kjUe5kyi_1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kjUe5kyi_1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-01T07:33:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "56uUf0_ReyzuCqeLcgMM-O9EQRc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ecxnySkAJtA"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-19T04:00:25Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Days in the Life of Shiba Inu (Last Days in Korea)",
+                "description": "Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for visiting my channel and saying hello to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ecxnySkAJtA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ecxnySkAJtA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ecxnySkAJtA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-19T04:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "N2jHiED63RTQ1My1lUZb_5Ot9UA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J3DClSaeh6Y"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-08T14:49:19Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "아기 이유식 탐내는 강아지ㅋㅋ",
+                "description": "아기 이유식을 뺏어먹으려는 하리보ㅋㅋ 영상 재밌게 봐주세요. #시바견 #이유식 #육아 Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J3DClSaeh6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J3DClSaeh6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J3DClSaeh6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-08T14:49:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z9yNNWoF3FO_IpUwBHTAFnDYJzg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eeDb9wGK1bk"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-09T02:41:00Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "2-Month-Old Shiba Inu Puppy Compilation",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eeDb9wGK1bk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eeDb9wGK1bk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eeDb9wGK1bk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-09T02:41:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Eo8KINf8invagcTDxe6uv8jlV-w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HNdLshp8UfU"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-16T03:00:05Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu Dog Staying at 5-STAR HOTEL",
+                "description": "We are going to stay in Korea for a couple of months. I'm so excited to bring her here. Stay tuned for a new journey in Korea.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HNdLshp8UfU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HNdLshp8UfU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HNdLshp8UfU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-16T03:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JPIHJTfjeECyNiG_0_tXxd2zu9w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RAxfo5zEI6E"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-24T14:00:04Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "아기와 강아지가 친구가 되는 과정",
+                "description": "하리보는 캐나다에 사는 암컷 시바견이에요. 곰인형 모양 젤리 이름에서 따온 귀여운 이름이지만 저희 가족은 주로 “하리” 라는 애칭 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RAxfo5zEI6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RAxfo5zEI6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RAxfo5zEI6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-24T14:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OhhrNKvAF-a1fU_YUUbUnoGix0Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gGsH_nvtfMo"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-10T11:22:12Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu Visits Traditional Temple and Folk Village in Korea",
+                "description": "We are going to stay in Korea for a couple of months. I'm so excited to bring her here. Stay tuned for a new journey in Korea.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gGsH_nvtfMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gGsH_nvtfMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gGsH_nvtfMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-10T11:22:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WsxYQDwbkCXRtzmgupeqtHkwwSw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IbDnzSjx2cQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-08T03:00:09Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu Has a Beautiful Snow Day",
+                "description": "We are going to stay in Korea for a couple of months. I'm so excited to bring her here. Stay tuned for a new journey in Korea.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IbDnzSjx2cQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IbDnzSjx2cQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IbDnzSjx2cQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-08T03:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "77N6VLEYkufAuTYhP-cRD4dpEyU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gzGao2gSvCM"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-24T05:00:09Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "A Day in the Life of a Shiba Inu in Korea",
+                "description": "We are going to stay in Korea for a couple of months. I'm so excited to bring her here. Stay tuned for a new journey in Korea.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gzGao2gSvCM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gzGao2gSvCM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gzGao2gSvCM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-24T05:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MCzjrm4kRDOwyYrawx3wa0k7R3o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q-9Yew_ztjM"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-05T03:17:48Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Fly with My Shiba Inu",
+                "description": "We are going to stay in Korea with family for a couple of months. I'm so excited to bring her here. Stay tuned for a new journey in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q-9Yew_ztjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q-9Yew_ztjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q-9Yew_ztjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-05T03:17:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iSxyR_K3_2Ktj3m6M0O2vj89pzs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xxzBTdZJm9Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-21T22:00:06Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "My Shiba Inu’s Morning Routine",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xxzBTdZJm9Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xxzBTdZJm9Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xxzBTdZJm9Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-21T22:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "044oJ50OCx1AZduuwX0Ia8b8o_A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vDs1hqKnlA0"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-07T01:28:12Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Autumn Walk with My Shiba Inu",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vDs1hqKnlA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vDs1hqKnlA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vDs1hqKnlA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-07T01:28:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XHHFmpttTy5EW7t9vItjYOIVMzs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uUFWH-7C4Jw"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-23T09:11:10Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "The Cutest Shiba Inu Thief",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uUFWH-7C4Jw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uUFWH-7C4Jw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uUFWH-7C4Jw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-23T09:11:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tcgugQ4td-1_U9PkgiqqCMvlqhE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NF8XJ3HmfLg"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-10T11:00:12Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu Dog Reaction To Magic Tricks",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NF8XJ3HmfLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NF8XJ3HmfLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NF8XJ3HmfLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-10T11:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x_juQHuhARgEVOottcsTzlCGj28",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w1UW5BDLEa0"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-03T13:46:39Z",
+                "channelId": "UCB5EDc_slf3zfKfQoOeitjQ",
+                "title": "Shiba Inu eating Doggie Ice Cream",
+                "description": "Haribo is a Shiba Inu living in Canada. Please leave a comment and subscribe to my channel if you enjoy this video. Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w1UW5BDLEa0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w1UW5BDLEa0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w1UW5BDLEa0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Haribo the Shiba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-03T13:46:39Z"
+            }
+        }
+    ]
+}

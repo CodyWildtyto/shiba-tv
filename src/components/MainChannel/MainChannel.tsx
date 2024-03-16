@@ -1,14 +1,12 @@
+import { useEffect, useState } from 'react';
+
+import { TChannel } from '../../types/channel';
+import { TVideo } from '../../types/video';
+import { querySearchChannel } from '../../utils/api';
+import { parseChannelVideos } from '../../utils/parsers';
 import MainVideo from '../MainVideo/MainVideo';
 
 import './MainChannel.css';
-
-type TMainChannel = {
-    id: string;
-    name: string;
-    subscriberCount: number;
-    title: string;
-    thumbnailUrl: string;
-};
 
 function MainChannel({
     id,
@@ -16,7 +14,20 @@ function MainChannel({
     subscriberCount,
     title,
     thumbnailUrl,
-}: TMainChannel): JSX.Element {
+    videoCount,
+}: TChannel): JSX.Element {
+    const [videoList, setVideoList] = useState<TVideo[]>([]);
+
+    const fetchChannelVideos = async () => {
+        const { data } = await querySearchChannel(id);
+
+        setVideoList(parseChannelVideos(data));
+    };
+
+    useEffect(() => {
+        fetchChannelVideos();
+    }, []);
+
     return (
         <div className="MainChannel" id={id}>
             <header>
@@ -34,13 +45,13 @@ function MainChannel({
                     </div>
                     <div className="MainChannelHeader__Tail__Videos">
                         <span>VIDEOS</span>
-                        <span>245</span>
+                        <span>{Number(videoCount).toLocaleString()}</span>
                     </div>
                 </div>
             </header>
             <div className="MainChannel__Carousel">
-                {[...new Array(10)].map((_, index) => (
-                    <MainVideo key={index} />
+                {videoList.map((item: TVideo, index) => (
+                    <MainVideo key={index} {...item} />
                 ))}
             </div>
         </div>

@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "ZRGoxzS9RiXXVZEiEYkZga3sVok",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "CA",
+    "pageInfo": {
+        "totalResults": 162,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tOdjmPPUNOMk0eNn-YVDKEkIKbw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fYMd9ZC0gRI"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-11T14:41:22Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Moment of Truth",
+                "description": "max is faced with the challenge of taking his first bath.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fYMd9ZC0gRI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fYMd9ZC0gRI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fYMd9ZC0gRI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-11T14:41:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x0hdo8bxGGN6oG_IdO4LERUpSI4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "da5tKx3mfuQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-05T12:23:15Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "You’re a Water Enjoyer but Can’t Swim",
+                "description": "since max didn't unlock liquid shibe skill he has a difficult time swimming.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/da5tKx3mfuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/da5tKx3mfuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/da5tKx3mfuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-05T12:23:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "udT_uNjyjLSgejlWkusW1qO6Dhg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vby1sQqEcr0"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-14T12:45:14Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Target Approaching, Prepare Tactical Formation",
+                "description": "max stumbles upon new kat music: Toby Fox - Menu (Full) Jeremy Soule - Harvest Dawn.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vby1sQqEcr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vby1sQqEcr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vby1sQqEcr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-14T12:45:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s1TXOBkXfYBPN8iSCJqXgWhULxc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IcKD9BF8ORo"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-01T13:00:22Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Play wit me, or else..",
+                "description": "If not trained properly fire-type shibas can become lethal.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IcKD9BF8ORo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IcKD9BF8ORo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IcKD9BF8ORo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-01T13:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YB_OcTRVLqafvnF9YI2wWfOUy3g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mbn-NHvSlHA"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-17T15:14:56Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Shiba inu snow tunnel",
+                "description": "digging trenches with max shoutout to moistautism and stryxo for the voices.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mbn-NHvSlHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mbn-NHvSlHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mbn-NHvSlHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-17T15:14:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ItYMRbsPaUD-ppRgEuunvqPAXP0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "74pU-X9_vWc"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-23T16:00:03Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "He&#39;s smarter than he looks",
+                "description": "music: C418 - Sweden.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/74pU-X9_vWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/74pU-X9_vWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/74pU-X9_vWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-23T16:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Hb7G0TqdBrjKHWCdoSN31T1YCDI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mSSlhkt_oYo"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-18T13:00:23Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "he actually did it",
+                "description": "max goes to aether noteblock by grandayy: https://www.youtube.com/shorts/meXC_0lCbjs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mSSlhkt_oYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mSSlhkt_oYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mSSlhkt_oYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-18T13:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "43aoUfs3iFHcpK0vT149STkGBlQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tKW-Z2m37t8"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-14T13:00:35Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Banana Phone",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tKW-Z2m37t8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tKW-Z2m37t8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tKW-Z2m37t8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-14T13:00:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QuQc4_g2-wOd8Vs3H4MY3fFwxoc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HEOmmm-dsLs"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-12T22:00:04Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Shibes Are The Best Grass Pokémon",
+                "description": "it seems shibes come in many types.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HEOmmm-dsLs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HEOmmm-dsLs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HEOmmm-dsLs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-12T22:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5IcGbqk0te2poq1S4emOp7cruKw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TTY46TQSkyE"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-03T14:00:13Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "broccoli (edible green plant rich of vitamin c and vitamin k)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TTY46TQSkyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TTY46TQSkyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TTY46TQSkyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-03T14:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vSCO5CpwqR9mrSI3KAgniAbAzAI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B5ZCcg21kUw"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-24T14:00:03Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "stryxo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B5ZCcg21kUw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B5ZCcg21kUw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B5ZCcg21kUw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-24T14:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XJMsYLkFck9UmJNos-ZNltgS2NI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oN5etaLRwYo"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-22T14:00:30Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "are you lost?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oN5etaLRwYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oN5etaLRwYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oN5etaLRwYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-22T14:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "27CPYaQsOVp0U0qu1S8jRtC-7VA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a0a7Hn9KC68"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-17T15:56:43Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "his relentless aggression towards citrus fruits is truly inspiring",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a0a7Hn9KC68/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a0a7Hn9KC68/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a0a7Hn9KC68/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-17T15:56:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E4-70LzKNpD1CI-3nGbn94Ci_yY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0P9ictbFVAs"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-15T14:13:55Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Boss Fight",
+                "description": "max encounters boss fight against watermelon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0P9ictbFVAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0P9ictbFVAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0P9ictbFVAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-15T14:13:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mHTPLwxUrT9BH4wp7BSLmEfH5ko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W5Utb5OBZG8"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-11T14:00:11Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "*teleports behind you*",
+                "description": "max masters wielding his katana from shiba heritage music from oblivion soundtrack: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W5Utb5OBZG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W5Utb5OBZG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W5Utb5OBZG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-11T14:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qAyrowv9S2M2KkaJQJdSvrO6glQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lyvcfk2i5M4"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-26T14:00:09Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "where am i?",
+                "description": "max has gone out to find new locations on the world map music: SiIvaGunner - Nintendogs Theme ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lyvcfk2i5M4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lyvcfk2i5M4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lyvcfk2i5M4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-26T14:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tILJDOR0ZbQUiCBGhi-kcZsM9-w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t-onMBlrMPw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-15T14:00:19Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "if you support, the shibe charges faster",
+                "description": "max has drained his stamina once again music: Plants vs Zombies - Pool Stage: https://www.youtube.com/watch?v=9TjM3LrV0WI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t-onMBlrMPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t-onMBlrMPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t-onMBlrMPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-15T14:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "m9tCHpSxTADo42yt_ZswjSalECw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "apgyAYAYrRI"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-05T14:00:00Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "the final boss",
+                "description": "elden ring final boss fight.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/apgyAYAYrRI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/apgyAYAYrRI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/apgyAYAYrRI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-05T14:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3DoffZkpvipHrZ5E2EP-0sfyYZI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nKt_7VJKGIc"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-03T14:32:29Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "why is he stealing my food",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nKt_7VJKGIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nKt_7VJKGIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nKt_7VJKGIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-03T14:32:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3P-z3TETHybctwUC-PMEZhXE0nc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y2zeAi_nSgg"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-26T14:00:23Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "level up",
+                "description": "new sp. attack.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y2zeAi_nSgg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y2zeAi_nSgg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y2zeAi_nSgg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-26T14:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L7XluYtkxXZmD-Q7vBuEEiMZolE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r95RcPu7WQc"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-18T14:00:22Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Surrender",
+                "description": "Max meets a playful doggo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r95RcPu7WQc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r95RcPu7WQc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r95RcPu7WQc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-18T14:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uqIehxBst6qaVuaY-iVOxj85aRk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-kRhouPKYCk"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-16T14:00:01Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "He’s on a Rampage",
+                "description": "Max unleashes shiba rampage at the cost of 15 mp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-kRhouPKYCk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-kRhouPKYCk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-kRhouPKYCk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-16T14:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pnCusHLMjeEgR5vPycyESZo2Sno",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wt9ztSV3AeQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-11T14:00:14Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "when you lose your mind",
+                "description": "Max's patience has reached 0%",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wt9ztSV3AeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wt9ztSV3AeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wt9ztSV3AeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-11T14:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2QbnxBcUmpaBFg7qISqkb6z5x5Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-sweg9-oHvc"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-10T14:00:01Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Dodge This Shibe",
+                "description": "Snowball fight with Shiba Max.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-sweg9-oHvc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-sweg9-oHvc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-sweg9-oHvc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-10T14:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t5NNV24WJyyuDXiPamn_kBrAjGc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "50BpkTCCPVk"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T14:00:02Z",
+                "channelId": "UC-xjitW_J39_Q1ure2HlJew",
+                "title": "Max but he&#39;s a 9 minute greenscreen or something",
+                "description": "Green Screen Footage of shiba Max. Feel free to use Noteblock Music by DGigsTV: https://www.youtube.com/user/Eolk121 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/50BpkTCCPVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/50BpkTCCPVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/50BpkTCCPVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShibeNation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T14:00:02Z"
+            }
+        }
+    ]
+}

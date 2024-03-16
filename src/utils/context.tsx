@@ -7,13 +7,7 @@ import {
     useState,
 } from 'react';
 
-type TChannel = {
-    id: string;
-    name: string;
-    subscriberCount: number;
-    title: string;
-    thumbnailUrl: string;
-};
+import { TChannel } from '../types/channel';
 
 type TStore = {
     isVideoDisplayed: boolean | null;
