@@ -11,6 +11,8 @@ export type TYoutubeThumbnail = {
 };
 
 export type TYoutubeSnippet = {
+    channelId: string;
+    channelTitle: string;
     customUrl: string;
     description: string;
     publishedAt: string;

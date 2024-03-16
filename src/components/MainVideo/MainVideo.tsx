@@ -4,14 +4,32 @@ import { useContextStore } from '../../utils/context';
 import './MainVideo.css';
 
 function MainVideo({
+    channelName,
+    channelThumbnailUrl,
+    channelTitle,
+    description,
     id,
+    publishedAt,
     publishTime,
     title,
     thumbnailUrl,
 }: TVideo): JSX.Element {
-    const { setIsVideoDisplayed } = useContextStore();
+    const { setIsVideoDisplayed, setVideoData } = useContextStore();
 
-    const handleClick = () => setIsVideoDisplayed(true);
+    const handleClick = () => {
+        setVideoData({
+            channelName,
+            channelThumbnailUrl,
+            channelTitle,
+            description,
+            id,
+            publishedAt,
+            publishTime,
+            title,
+            thumbnailUrl,
+        });
+        setIsVideoDisplayed(true);
+    };
 
     return (
         <div
@@ -22,7 +40,7 @@ function MainVideo({
         >
             <img alt="" className="card" src={thumbnailUrl} />
             <h4>{title}</h4>
-            <span>{(new Date(publishTime)).toLocaleString()}</span>
+            <span>{new Date(publishTime).toLocaleString()}</span>
         </div>
     );
 }

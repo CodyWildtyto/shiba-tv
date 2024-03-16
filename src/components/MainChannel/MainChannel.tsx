@@ -51,7 +51,17 @@ function MainChannel({
             </header>
             <div className="MainChannel__Carousel">
                 {videoList.map((item: TVideo, index) => (
-                    <MainVideo key={index} {...item} />
+                    <MainVideo
+                        key={index}
+                        {...{
+                            ...item,
+                            ...{
+                                channelName: name,
+                                channelThumbnailUrl: thumbnailUrl,
+                                channelTitle: title,
+                            },
+                        }}
+                    />
                 ))}
             </div>
         </div>

@@ -1,4 +1,7 @@
 export type TVideo = {
+    channelName: string;
+    channelThumbnailUrl: string;
+    channelTitle: string;
     description: string;
     id: string;
     publishedAt: string;

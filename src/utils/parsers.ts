@@ -28,6 +28,8 @@ export const parseChannelList = ({ items }: { items: TYoutubeChannel[] }) =>
 
 export const parseChannelVideos = ({ items }: any): TVideo[] =>
     items.map(({ id, snippet }: TYoutubeVideo) => ({
+        channelId: snippet.channelId,
+        channelTitle: snippet.channelTitle,
         description: snippet.description,
         id: id.videoId,
         publishedAt: snippet.publishedAt,

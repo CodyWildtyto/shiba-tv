@@ -8,12 +8,15 @@ import {
 } from 'react';
 
 import { TChannel } from '../types/channel';
+import { TVideo } from '../types/video';
 
 type TStore = {
     isVideoDisplayed: boolean | null;
     setIsVideoDisplayed: Dispatch<SetStateAction<boolean | null>>;
     channelList: TChannel[];
     setChannelList: Dispatch<SetStateAction<TChannel[]>>;
+    videoData: TVideo | null;
+    setVideoData: Dispatch<SetStateAction<TVideo | null>>;
 };
 
 type TProviderProps = {
@@ -27,6 +30,7 @@ export function ContextProvider({ children }: TProviderProps): JSX.Element {
         null
     );
     const [channelList, setChannelList] = useState<TChannel[]>([]);
+    const [videoData, setVideoData] = useState<TVideo | null>(null);
 
     const store = useMemo(
         () => ({
@@ -34,8 +38,10 @@ export function ContextProvider({ children }: TProviderProps): JSX.Element {
             setIsVideoDisplayed,
             channelList,
             setChannelList,
+            videoData,
+            setVideoData,
         }),
-        [isVideoDisplayed, channelList]
+        [isVideoDisplayed, channelList, videoData]
     );
 
     return <Context.Provider value={store}>{children}</Context.Provider>;
