@@ -10,7 +10,9 @@ import {
 type TChannel = {
     id: string;
     name: string;
+    subscriberCount: number;
     title: string;
+    thumbnailUrl: string;
 };
 
 type TStore = {

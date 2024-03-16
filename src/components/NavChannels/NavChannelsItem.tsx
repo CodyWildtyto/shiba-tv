@@ -12,9 +12,14 @@ import './NavChannelsItem.css';
 type TNavChannelsItem = {
     id: string;
     text: string;
+    thumbnailUrl: string;
 };
 
-function NavChannelsItem({ id, text }: TNavChannelsItem): JSX.Element {
+function NavChannelsItem({
+    id,
+    text,
+    thumbnailUrl,
+}: TNavChannelsItem): JSX.Element {
     const [isActive, setIsActive] = useState(false);
     const itemElement = useRef<HTMLElement>();
 
@@ -61,7 +66,7 @@ function NavChannelsItem({ id, text }: TNavChannelsItem): JSX.Element {
             role="button"
             tabIndex={0}
         >
-            <img alt="" src="/mock/avatar.jpg" />
+            <img alt="" src={thumbnailUrl} />
             <span>{text}</span>
         </div>
     );

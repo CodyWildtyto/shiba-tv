@@ -8,8 +8,13 @@ function NavChannels(): JSX.Element {
 
     return (
         <div className="NavChannels">
-            {channelList.map(({ id, title }, index) => (
-                <NavChannelsItem id={id} key={index} text={title} />
+            {channelList.map(({ id, title, thumbnailUrl }, index) => (
+                <NavChannelsItem
+                    id={id}
+                    key={index}
+                    text={title}
+                    thumbnailUrl={thumbnailUrl}
+                />
             ))}
         </div>
     );

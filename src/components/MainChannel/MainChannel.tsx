@@ -5,15 +5,23 @@ import './MainChannel.css';
 type TMainChannel = {
     id: string;
     name: string;
+    subscriberCount: number;
     title: string;
+    thumbnailUrl: string;
 };
 
-function MainChannel({ id, name, title }: TMainChannel): JSX.Element {
+function MainChannel({
+    id,
+    name,
+    subscriberCount,
+    title,
+    thumbnailUrl,
+}: TMainChannel): JSX.Element {
     return (
         <div className="MainChannel" id={id}>
             <header>
                 <div className="MainChannelHeader__Head">
-                    <img className="card" alt="" src="/mock/avatar.jpg" />
+                    <img className="card" alt="" src={thumbnailUrl} />
                 </div>
                 <div className="MainChannelHeader__Body">
                     <h3>{title}</h3>
@@ -22,7 +30,7 @@ function MainChannel({ id, name, title }: TMainChannel): JSX.Element {
                 <div className="MainChannelHeader__Tail">
                     <div className="MainChannelHeader__Tail__Subscribers">
                         <span>SUBSCRIBERS</span>
-                        <span>58,200</span>
+                        <span>{Number(subscriberCount).toLocaleString()}</span>
                     </div>
                     <div className="MainChannelHeader__Tail__Videos">
                         <span>VIDEOS</span>

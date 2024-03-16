@@ -1,4 +1,3 @@
-import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 
 import App from './layouts/App/App';
@@ -10,11 +9,9 @@ import './index.css';
 const root = createRoot(document.getElementById('root') as HTMLElement);
 
 root.render(
-    <StrictMode>
-        <ContextProvider>
-            <App />
-        </ContextProvider>
-    </StrictMode>
+    <ContextProvider>
+        <App />
+    </ContextProvider>
 );
 
 reportWebVitals(({ name, delta, entries, id, value }) => {

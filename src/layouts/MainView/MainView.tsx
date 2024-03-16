@@ -8,9 +8,20 @@ function MainView(): JSX.Element {
 
     return (
         <main className="MainView">
-            {channelList.map(({ id, name, title }, index) => (
-                <MainChannel id={id} key={index} name={name} title={title} />
-            ))}
+            {channelList.map(
+                ({ id, name, subscriberCount, title, thumbnailUrl }, index) => (
+                    <MainChannel
+                        {...{
+                            id,
+                            key: index,
+                            name,
+                            subscriberCount,
+                            title,
+                            thumbnailUrl,
+                        }}
+                    />
+                )
+            )}
         </main>
     );
 }
