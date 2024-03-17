@@ -6,7 +6,10 @@
     margin-right: -30px;
     overflow: hidden;
     padding: 10px 10px 20px;
+    position: fixed;
     transition: height 100ms;
+    top: 90px;
+    left: 20px;
 }
 
 .NavShortcuts--Active {
@@ -14,7 +17,7 @@
 }
 
 .NavShortcuts button {
-    padding: 20px;
+    padding: 8px 16px 8px 8px;
     text-align: left;
     transition: transform 200ms;
 }
@@ -25,4 +28,14 @@
 
 .NavShortcuts .NavShortcuts__Back i {
     margin-right: 20px;
+}
+
+@media only screen and (min-width: 768px) {
+    .NavShortcuts {
+        position: static;
+    }
+
+    .NavShortcuts button {
+        padding: 20px;
+    }
 }

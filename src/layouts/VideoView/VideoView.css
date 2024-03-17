@@ -3,16 +3,27 @@
     display: flex;
     flex-direction: column;
     gap: var(--app-area-padding);
-    left: var(--side-area-width);
+    left: var(--app-area-padding);
     position: fixed;
     right: var(--app-area-padding);
-    top: var(--app-area-padding);
+    top: 160px;
     z-index: 7;
 }
 
 .VideoScreen iframe {
     aspect-ratio: 16/9;
-    border-radius: 16px;
+    border-radius: 10px;
     display: block;
     width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+    .VideoView {
+        left: var(--side-area-width);
+        top: var(--app-area-padding);
+    }
+
+    .VideoScreen iframe {
+        border-radius: 16px;
+    }
 }

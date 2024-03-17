@@ -1,5 +1,6 @@
 :root {
-    --app-area-padding: 40px;
+    --app-area-padding: 20px;
+    --breakpoint-mobile-width: 768px;
     --default-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     --primary-color: #c69c6d;
     --side-area-width: 360px;
@@ -10,6 +11,16 @@
 
 .card {
     background-color: white;
-    border-radius: 16px;
+    border-radius: 10px;
     box-shadow: var(--default-box-shadow);
+}
+
+@media only screen and (min-width: 768px) {
+    :root {
+        --app-area-padding: 40px;
+    }
+
+    .card {
+        border-radius: 16px;
+    }
 }
