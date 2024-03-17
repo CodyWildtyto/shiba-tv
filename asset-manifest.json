@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shiba-tv/static/css/main.9c935d0f.css",
+    "main.js": "/shiba-tv/static/js/main.7f16b351.js",
+    "static/js/453.a77f7863.chunk.js": "/shiba-tv/static/js/453.a77f7863.chunk.js",
+    "index.html": "/shiba-tv/index.html",
+    "main.9c935d0f.css.map": "/shiba-tv/static/css/main.9c935d0f.css.map",
+    "main.7f16b351.js.map": "/shiba-tv/static/js/main.7f16b351.js.map",
+    "453.a77f7863.chunk.js.map": "/shiba-tv/static/js/453.a77f7863.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c935d0f.css",
+    "static/js/main.7f16b351.js"
+  ]
+}
