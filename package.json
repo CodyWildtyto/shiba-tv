@@ -2,12 +2,9 @@
     "name": "shiba-tv",
     "version": "0.2.0",
     "private": true,
-    "homepage": "https://codywildtyto.github.io/shiba-tv",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
-        "deploy": "gh-pages -d build",
-        "predeploy": "yarn run build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
